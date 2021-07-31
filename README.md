@@ -56,6 +56,8 @@ To start the server;
   yarn dev
 ```
 
+Note: Before running the server, you need to change the connection URL with mongodb ( backend/src/server.js ).
+
 #### Front-End 
 
 In the frontend folder;
